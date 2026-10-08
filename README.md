@@ -3,7 +3,7 @@
 **Institution:** Middlesex University London  
 **Degree:** BEng (Hons) Biomedical Engineering  
 **Module:** PDE1234 (Design Practice for Biomedical Engineers)  
-**Year:** 1st year (2022/2023)  
+**Academic Year:** 1st (2022/2023)  
 **Assessment outcome:** 3 (First Class)  
 **Project type:** Group concept-stage engineering design project
 
