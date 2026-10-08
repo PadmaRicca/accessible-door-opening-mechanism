@@ -4,7 +4,7 @@
 **Degree:** BEng (Hons) Biomedical Engineering  
 **Module:** PDE1234 (Design Practice for Biomedical Engineers)  
 **Academic Year:** 1st (2022/2023)  
-**Assessment outcome:** 3 (First Class)  
+**Assessment outcome:** First Class (Distinction)  
 **Project type:** Group concept-stage engineering design project
 
 ## Project Overview
