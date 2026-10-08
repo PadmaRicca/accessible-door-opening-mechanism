@@ -1,7 +1,5 @@
 # Accessible Door-Opening Mechanism
 
-**Key words:** Biomedical Engineering | Engineering Design Process | Mechanical Design  
-
 **Institution:** Middlesex University London  
 **Degree:** BEng (Hons) Biomedical Engineering  
 **Module:** PDE1234 (Design Practice for Biomedical Engineers)  
