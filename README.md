@@ -7,7 +7,7 @@
 **Academic Year:** 1st (2022/2023)  
 **Assessment Outcome:** First Class (Distinction)  
 **Overall Module Mark:** 4 (First Class, Distinction)  
-**Project Type:** Group concept-stage engineering design project
+**Project Type:** Concept-stage engineering group project
 
 ## Project Overview
 
